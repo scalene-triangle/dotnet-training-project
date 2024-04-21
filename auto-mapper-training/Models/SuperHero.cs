@@ -1,4 +1,4 @@
-﻿namespace automappertraining
+﻿namespace auto_mapper_training.Models
 {
     public class SuperHero
     {
