@@ -1,0 +1,6 @@
+@auto_mapper_training_HostAddress = http://localhost:5076
+
+GET {{auto_mapper_training_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
